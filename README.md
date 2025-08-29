@@ -1,5 +1,3 @@
-Perfeito 👍
-Vou condensar tudo em um **README único, direto e profissional**, sem repetições desnecessárias e mantendo a clareza máxima.
 
 ---
 
@@ -40,9 +38,6 @@ screens/
 └── UserManagementScreen.tsx
 
 ````
-
----
-
 ## 🛠️ Tecnologias
 - **React** + **TypeScript**  
 - **React Router / Navigation** (rotas)  
@@ -50,8 +45,8 @@ screens/
 - **TailwindCSS / Styled Components** (UI responsiva)  
 - **Axios / Fetch API** (requisições HTTP)  
 - **ESLint + Prettier** (boas práticas e padronização)  
+````
 
----
 
 ## 📦 Instalação
 ```bash
@@ -94,9 +89,6 @@ npm test
 
 Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-
-👨‍💻 Desenvolvido para entregar uma solução **intuitiva e escalável** de gerenciamento de consultas médicas.
 
 ```
 
