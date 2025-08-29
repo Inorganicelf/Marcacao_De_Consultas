@@ -1,4 +1,3 @@
-````markdown
 # 🏥 Medical Appointment Management System
 
 Sistema moderno para gerenciamento de **consultas médicas**, oferecendo acesso personalizado para **pacientes**, **médicos** e **administradores**.  
@@ -15,8 +14,6 @@ Desenvolvido em **React + TypeScript**, com foco em escalabilidade, segurança e
 - 📅 **Agendamentos**: criar, editar e cancelar consultas.  
 - 👤 **Perfil**: atualização de informações pessoais.  
 
----
-````
 ## 📂 Estrutura
 ```
 
@@ -61,9 +58,3 @@ npm start
 O sistema ficará disponível em `http://localhost:3000/`.
 
 ---
-
-## 🧪 Testes
-
-```bash
-npm test
-```
