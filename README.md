@@ -1,4 +1,4 @@
-```markdown
+````markdown
 # 🏥 Medical Appointment Management System
 
 Sistema moderno para gerenciamento de **consultas médicas**, oferecendo acesso personalizado para **pacientes**, **médicos** e **administradores**.  
@@ -16,7 +16,7 @@ Desenvolvido em **React + TypeScript**, com foco em escalabilidade, segurança e
 - 👤 **Perfil**: atualização de informações pessoais.  
 
 ---
-
+````
 ## 📂 Estrutura
 ```
 
@@ -66,13 +66,4 @@ O sistema ficará disponível em `http://localhost:3000/`.
 
 ```bash
 npm test
-```
-
-## 🤝 Contribuição
-
-1. Faça um **fork**
-2. Crie uma branch (`git checkout -b feature/minha-feature`)
-3. Commit (`git commit -m "Adiciona minha feature"`)
-4. Push (`git push origin feature/minha-feature`)
-5. Abra um Pull Request 🎉
 ```
