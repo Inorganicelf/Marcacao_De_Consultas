@@ -1,8 +1,3 @@
-
----
-
-# 📄 README.md
-
 ```markdown
 # 🏥 Medical Appointment Management System
 
@@ -51,10 +46,10 @@ screens/
 ## 📦 Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Inorganicelf/Marcacao_De_Consultas.git
 
 # Acesse a pasta
-cd seu-repositorio
+cd marcacaoDeConsultasMedicas
 
 # Instale as dependências
 npm install
@@ -73,8 +68,6 @@ O sistema ficará disponível em `http://localhost:3000/`.
 npm test
 ```
 
----
-
 ## 🤝 Contribuição
 
 1. Faça um **fork**
@@ -83,11 +76,6 @@ npm test
 4. Push (`git push origin feature/minha-feature`)
 5. Abra um Pull Request 🎉
 
----
-
-## 📜 Licença
-
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
 ```
