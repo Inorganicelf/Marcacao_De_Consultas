@@ -75,12 +75,4 @@ npm test
 3. Commit (`git commit -m "Adiciona minha feature"`)
 4. Push (`git push origin feature/minha-feature`)
 5. Abra um Pull Request 🎉
-
-
-
-```
-
----
-
-👉 Quer que eu inclua também uma **seção de screenshots (prints das telas)** no README (com placeholders prontos para imagens), para que fique ainda mais atrativo no GitHub?
 ```
